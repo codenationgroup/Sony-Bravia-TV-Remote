@@ -15,6 +15,6 @@ This project uses 2 different methods over a local connection.
 This project is built by using an Express JS backend that delivers controls to the user's browser (using HTML form actions) to check what the user requests and sends the requests of the user via the machine on the local network to the TV
 
 ## Other Notes:
-- This project was made by VixityTheFox (vixitythefox) on discord. vixitythefox and vixity2 are both accounts of mine. 
-- This is made for mobile and PC layout will look weird (For now_
+- This project was made by CloudAPI.one
+- This is made for mobile and PC layout will look weird (For now)
 - If you can, please help with the CSS. I'm terrible at it
